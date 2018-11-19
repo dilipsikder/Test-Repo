@@ -1,7 +1,7 @@
 # Test-Repo
 Test repository
 <html>
-<title>Hello World Test2</title>
+<title>Hello World ISC3</title>
 <body>
 Hello world
 </body>
